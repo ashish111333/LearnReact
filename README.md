@@ -27,9 +27,9 @@ Anyone can contribute,make sure to comment your code well so the users know what
 
 3. add your project under one of the following directories 
    
-   +Advanced
-   +basics
-   +Intermediate
+   + Advanced
+   + basics
+   + Intermediate
 
 4. make a pull request.
    ```
