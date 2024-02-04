@@ -7,7 +7,15 @@ Made this repo for learning purposes,this repo contains small react projects fro
 ## Contributing
 Anyone can contribute,make sure to comment your code well so the users know what you are doing.
 
-1. clone this repo on your machine 
+
+1. fork this repo
+   ```
+   gh fork https://github.com/ashish111333/LearnReact.git
+   ```
+    
+
+
+2. clone this repo on your machine 
    
    ```
    git clone https://github.com/ashish111333/LearnReact.git
@@ -19,9 +27,9 @@ Anyone can contribute,make sure to comment your code well so the users know what
 
 3. add your project under one of the following directories 
    
-   -Advanced
-   -basics
-   -Intermediate
+   +Advanced
+   +basics
+   +Intermediate
 
 4. make a pull request.
    ```
